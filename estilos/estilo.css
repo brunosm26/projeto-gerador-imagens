@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://img.freepik.com/vetores-premium/fundo-de-estilo-futurista-metalico-preto_33869-1211.jpg);
+    background-image: url("../assets/imagens/fundo.png");
     background-size: cover;
     height: 100vh;
     text-align: center;
