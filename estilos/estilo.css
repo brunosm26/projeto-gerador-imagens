@@ -30,8 +30,7 @@ button{
     font-size: small;
     background-color: white;
     border: solid;
-    border-image: linear-gradient(to right, purple,pink) 1;
-    cursor: not-allowed; 
+    border-image: linear-gradient(to right, purple,pink) 1; 
 }
     .imagem-container img {
     margin-top: 50px;
